@@ -1,5 +1,6 @@
 # Bank-Loan-Risk-Application-Analysis-Dashboard-Excel
 Excel-based Bank Loan Application Analytics Dashboard analysing loan applications, borrower profiles, loan performance, and lending risk indicators to support data-driven financial decision-making.
+
 📌 Project Overview
 
 This project presents a Bank Loan Application Analytics Dashboard built using Microsoft Excel to analyse lending data and understand borrower behaviour, loan performance, and risk distribution.
@@ -23,6 +24,7 @@ Average Debt-to-Income Ratio
 These KPIs provide an overview of the loan portfolio and lending performance.
 
 📈 Dashboard Sections
+
 1️⃣ Loan Portfolio Overview
 
 KPI cards displaying total applications and funding metrics
